@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/abe72bd0-98fc-4ca0-ae26-f76e3b422e14)
+![image](https://github.com/user-attachments/assets/21676d2c-6113-4ced-a513-2a0f0560215e)
+
 # Center-TVT
 Water filtering solutions
 
