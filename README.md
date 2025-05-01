@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/abe72bd0-98fc-4ca0-ae26-f76e3b422e14)
 # Center-TVT
 Water filtering solutions
 
@@ -14,4 +15,4 @@ Water filtering solutions
 Возможность сохранения результатов анализа
 
 Это приложение поможет пользователям быстро определить проблемы с качеством воды и подобрать оптимальные современные методы очистки.
-![image](https://github.com/user-attachments/assets/abe72bd0-98fc-4ca0-ae26-f76e3b422e14)
+
