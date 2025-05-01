@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/21676d2c-6113-4ced-a513-2a0f0560215e)
 
 # Center-TVT
-Water filtering solutions
+Water water preparation and filtering solutions for wastewater and pure water
 
 Дальнейшее развитие приложения
 
